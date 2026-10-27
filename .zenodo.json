@@ -1,0 +1,10 @@
+{
+  "title": "folded-sheet-fracture: code and data for \"Cracks running into the ridge of a folded sheet\"",
+  "upload_type": "software",
+  "description": "Python solvers (singular integral equations, Gauss-Chebyshev collocation), COMSOL 6.4 Java files for every shell finite-element test, and the resulting data, for a straight crack running at right angles into the ridge of a folded thin sheet, in modes I, II and III.",
+  "creators": [
+    {"name": "Barbieri, Ettore", "affiliation": "Japan Agency for Marine-Earth Science and Technology (JAMSTEC)"}
+  ],
+  "license": "MIT",
+  "keywords": ["fracture", "thin sheets", "ridges", "origami", "shells", "singular integral equations", "finite elements"]
+}

@@ -1,0 +1,7 @@
+*.mph
+*.class
+*.class.status
+*.recovery
+logs/
+__pycache__/
+.DS_Store

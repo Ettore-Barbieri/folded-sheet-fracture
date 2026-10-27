@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "folded-sheet-fracture: code and data for 'Cracks running into the ridge of a folded sheet'"
+authors:
+  - family-names: Barbieri
+    given-names: Ettore
+    affiliation: "Japan Agency for Marine-Earth Science and Technology (JAMSTEC)"
+license: MIT
+repository-code: "https://github.com/Ettore-Barbieri/folded-sheet-fracture"
+keywords: [fracture, thin sheets, ridges, origami, shells, singular integral equations, finite elements]

@@ -1,0 +1,24 @@
+No output folder available (COMSOL file access may be restricted). Results go to the table 'FE results' under Results > Tables.
+Symmetry via pointwise constraints v = 0, ary = 0 on selSym
+Symmetry via pointwise constraints v = 0, ary = 0 on selSeg
+A100_TEST mode: alpha = 0.02, a/lc = 1000.0
+---- alpha=0.0200  delta/lc=1.000  FLAT CALIBRATION  (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 16480 triangles, 1386 edge elements
+   energy route used: edge operator intTop
+   node-sum route used: operator sumSeg
+   G_energy/G_flat = 1.00228   Gm/G_flat = 1.00228   Gb/G_flat = -0.00000   (closure-energy)/energy = -8.01e-09
+---- alpha=0.0200  delta/lc=1000    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 121828 triangles, 5889 edge elements
+   G_energy/G_flat = 1.05300   Gm/G_flat = 1.05300   Gb/G_flat = 0.00000   (closure-energy)/energy = 1.20e-08
+---- alpha=0.0200  delta/lc=134.0    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 25854 triangles, 1965 edge elements
+   G_energy/G_flat = 1.13756   Gm/G_flat = 1.13756   Gb/G_flat = 0.00000   (closure-energy)/energy = 2.40e-07
+---- alpha=0.0200  delta/lc=10.00    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 17078 triangles, 1411 edge elements
+   G_energy/G_flat = 0.90479   Gm/G_flat = 0.90449   Gb/G_flat = 0.00029   (closure-energy)/energy = -4.56e-08
+---- alpha=0.0200  delta/lc=1.000    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 16450 triangles, 1386 edge elements
+   G_energy/G_flat = 0.56173   Gm/G_flat = 0.55246   Gb/G_flat = 0.00926   (closure-energy)/energy = -5.68e-07
+---- alpha=0.0200  delta/lc=0.03000    (lc=0.03026 m, dx/lc=0.00600)
+WARNING: selection selFar has 0 entities, expected 1
+STOPPED WITH ERROR: Empty selection selFar - geometry is not where expected.

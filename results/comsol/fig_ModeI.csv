@@ -1,0 +1,2 @@
+alpha,lc_m,a_over_lc,delta_over_lc,dx_over_lc,deltaMid_over_lc,flat,U1,U2,G_energy_over_Gflat,Gm_closure_over_Gflat,Gb_closure_over_Gflat,G_closure_over_Gflat,closure_minus_energy_rel,shear_fac,mesh_fac,seg_fac,domain
+0.2000,3.026138e-03,10.00,0.300000,0.0500000,0.275000,0,2.9262287111e-01,2.9262664280e-01,1.048815,1.031350,0.017465,1.048815,-1.464e-10,1.000,1.000,1.000,25.00

@@ -1,0 +1,25 @@
+Output folder: <repo>/results/comsol
+MODE III (QUICK test)
+Antisymmetry via pointwise constraints u = 0, w = 0, ar.t = 0 on selSym
+Antisymmetry via pointwise constraints u = 0, w = 0, ar.t = 0 on selSeg
+---- mode III  a/lc=10.00  delta/lc=1.000  FLAT CALIBRATION  (lc=0.003026 m, dx/lc=0.0500)
+   mesh: 7985 triangles
+   G_energy/G_th = 1.03491   Gm/G_th = -0.00000   Gt/G_th = 1.03491   (closure-energy)/energy = 2.09e-10
+CSV mode,alpha,lc_m,a_over_lc,delta_over_lc,dx_over_lc,deltaMid_over_lc,flat,U1,U2,G_energy_over_Gth,Gm_closure_over_Gth,Gt_closure_over_Gth,G_closure_over_Gth,closure_minus_energy_rel,domain
+CSV III,0.2000,3.026138e-03,10.00,1.00000,0.0500000,0.975000,1,4.0666687079e-05,4.1069468756e-05,1.034914,-0.000000,1.034914,1.034914,2.094e-10,25.00
+---- mode III  a/lc=10.00  delta/lc=0.3000    (lc=0.003026 m, dx/lc=0.0500)
+   mesh: 8149 triangles
+   G_energy/G_th = 0.82651   Gm/G_th = 0.01230   Gt/G_th = 0.81421   (closure-energy)/energy = -4.10e-11
+CSV III,0.2000,3.026138e-03,10.00,0.300000,0.0500000,0.275000,0,4.1393066846e-05,4.1714739778e-05,0.826512,0.012304,0.814208,0.826512,-4.096e-11,25.00
+   exported u
+   exported v
+   exported w
+   exported shell.mises
+   exported shell.Ws
+   could not export shell.Nlxx: Undefined_post_expression
+   could not export shell.Nlyy: Undefined_post_expression
+   could not export shell.Nlxy: Undefined_post_expression
+   could not export shell.Mlxx: Undefined_post_expression
+   could not export shell.Mlyy: Undefined_post_expression
+   could not export shell.Mlxy: Undefined_post_expression
+Saved .mph (last case).

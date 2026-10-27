@@ -1,0 +1,62 @@
+Output folder: <repo>/results/comsol
+MODE III
+Antisymmetry via pointwise constraints u = 0, w = 0, ar.t = 0 on selSym
+Antisymmetry via pointwise constraints u = 0, w = 0, ar.t = 0 on selSeg
+---- mode III  a/lc=10.00  delta/lc=1.000  FLAT CALIBRATION  (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 7985 triangles
+   G_energy/G_th = 0.99722   Gm/G_th = -0.00000   Gt/G_th = 0.99722   (closure-energy)/energy = 2.11e-08
+CSV mode,alpha,lc_m,a_over_lc,delta_over_lc,dx_over_lc,deltaMid_over_lc,flat,U1,U2,G_energy_over_Gth,Gm_closure_over_Gth,Gt_closure_over_Gth,G_closure_over_Gth,closure_minus_energy_rel,domain
+CSV III,0.02000,3.026138e-02,10.00,1.00000,0.0500000,0.975000,1,3.8500926579e-01,3.8889037071e-01,0.997218,-0.000000,0.997218,0.997218,2.107e-08,25.00
+---- mode III  a/lc=10.00  delta/lc=30.00    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 10203 triangles
+   G_energy/G_th = 0.99933   Gm/G_th = 0.00000   Gt/G_th = 0.99933   (closure-energy)/energy = 6.69e-08
+CSV III,0.02000,3.026138e-02,10.00,30.0000,0.0500000,29.9750,0,3.8524859596e-01,3.8913793422e-01,0.999333,0.000000,0.999334,0.999334,6.690e-08,25.00
+---- mode III  a/lc=10.00  delta/lc=10.00    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 8487 triangles
+   G_energy/G_th = 1.00302   Gm/G_th = 0.00000   Gt/G_th = 1.00302   (closure-energy)/energy = 3.67e-08
+CSV III,0.02000,3.026138e-02,10.00,10.0000,0.0500000,9.97500,0,3.8470801552e-01,3.8861168824e-01,1.003017,0.000000,1.003016,1.003017,3.666e-08,25.00
+---- mode III  a/lc=10.00  delta/lc=3.000    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 8249 triangles
+   G_energy/G_th = 0.95231   Gm/G_th = 0.00005   Gt/G_th = 0.95226   (closure-energy)/energy = -9.12e-09
+CSV III,0.02000,3.026138e-02,10.00,3.00000,0.0500000,2.97500,0,3.8016647662e-01,3.8387281383e-01,0.952313,0.000051,0.952262,0.952313,-9.119e-09,25.00
+---- mode III  a/lc=10.00  delta/lc=1.000    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 7987 triangles
+   G_energy/G_th = 0.84869   Gm/G_th = 0.00109   Gt/G_th = 0.84760   (closure-energy)/energy = 8.88e-09
+CSV III,0.02000,3.026138e-02,10.00,1.00000,0.0500000,0.975000,0,3.7166576847e-01,3.7496880228e-01,0.848687,0.001087,0.847600,0.848687,8.881e-09,25.00
+---- mode III  a/lc=10.00  delta/lc=0.3000    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 8050 triangles
+   G_energy/G_th = 0.72655   Gm/G_th = 0.00641   Gt/G_th = 0.72014   (closure-energy)/energy = -1.47e-08
+CSV III,0.02000,3.026138e-02,10.00,0.300000,0.0500000,0.275000,0,3.6363110753e-01,3.6645877928e-01,0.726547,0.006407,0.720140,0.726547,-1.468e-08,25.00
+---- mode III  a/lc=10.00  delta/lc=0.1000    (lc=0.03026 m, dx/lc=0.0200)
+   mesh: 8334 triangles
+   G_energy/G_th = 0.69070   Gm/G_th = 0.01230   Gt/G_th = 0.67841   (closure-energy)/energy = -2.59e-09
+CSV III,0.02000,3.026138e-02,10.00,0.100000,0.0200000,0.0900000,0,3.6027732824e-01,3.6135259382e-01,0.690702,0.012296,0.678406,0.690702,-2.593e-09,25.00
+---- mode III  a/lc=10.00  delta/lc=0.03000    (lc=0.03026 m, dx/lc=0.00600)
+   mesh: 8764 triangles
+   G_energy/G_th = 0.71375   Gm/G_th = 0.01666   Gt/G_th = 0.69709   (closure-energy)/energy = -2.92e-07
+CSV III,0.02000,3.026138e-02,10.00,0.0300000,0.00600000,0.0270000,0,3.5904821664e-01,3.5938156237e-01,0.713754,0.016659,0.697095,0.713754,-2.923e-07,25.00
+---- mode III  a/lc=100.0  delta/lc=1.000  FLAT CALIBRATION  (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 9108 triangles
+   G_energy/G_th = 0.98151   Gm/G_th = -0.00000   Gt/G_th = 0.98150   (closure-energy)/energy = -5.84e-06
+CSV III,0.02000,3.026138e-02,100.0,1.00000,0.0500000,0.975000,1,3.7910840638e+03,3.7949040178e+03,0.981506,-0.000000,0.981500,0.981500,-5.839e-06,25.00
+---- mode III  a/lc=100.0  delta/lc=300.0    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 29753 triangles
+   G_energy/G_th = 0.98209   Gm/G_th = 0.00000   Gt/G_th = 0.98211   (closure-energy)/energy = 1.34e-05
+CSV III,0.02000,3.026138e-02,100.0,300.000,0.0500000,299.975,0,3.7925155321e+03,3.7963377748e+03,0.982094,0.000000,0.982107,0.982107,1.337e-05,25.00
+---- mode III  a/lc=100.0  delta/lc=30.00    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 11057 triangles
+   G_energy/G_th = 0.93773   Gm/G_th = 0.00000   Gt/G_th = 0.93770   (closure-energy)/energy = -3.09e-05
+CSV III,0.02000,3.026138e-02,100.0,30.0000,0.0500000,29.9750,0,3.7419600290e+03,3.7456096140e+03,0.937731,0.000000,0.937701,0.937702,-3.091e-05,25.00
+---- mode III  a/lc=100.0  delta/lc=3.000    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 9302 triangles
+   G_energy/G_th = 0.61560   Gm/G_th = 0.00035   Gt/G_th = 0.61529   (closure-energy)/energy = 8.23e-05
+CSV III,0.02000,3.026138e-02,100.0,3.00000,0.0500000,2.97500,0,3.5475058871e+03,3.5499017415e+03,0.615595,0.000352,0.615294,0.615646,8.231e-05,25.00
+---- mode III  a/lc=100.0  delta/lc=0.3000    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 9215 triangles
+   G_energy/G_th = 0.34906   Gm/G_th = 0.01041   Gt/G_th = 0.33869   (closure-energy)/energy = 1.10e-04
+CSV III,0.02000,3.026138e-02,100.0,0.300000,0.0500000,0.275000,0,3.4631480459e+03,3.4645065499e+03,0.349056,0.010407,0.338688,0.349095,1.097e-04,25.00
+---- mode III  a/lc=100.0  delta/lc=0.03000    (lc=0.03026 m, dx/lc=0.00600)
+   mesh: 9906 triangles
+   G_energy/G_th = 0.34325   Gm/G_th = 0.02069   Gt/G_th = 0.32258   (closure-energy)/energy = 6.35e-05
+CSV III,0.02000,3.026138e-02,100.0,0.0300000,0.00600000,0.0270000,0,3.4520976688e+03,3.4522579759e+03,0.343247,0.020687,0.322581,0.343268,6.350e-05,25.00
+Saved .mph (last case).

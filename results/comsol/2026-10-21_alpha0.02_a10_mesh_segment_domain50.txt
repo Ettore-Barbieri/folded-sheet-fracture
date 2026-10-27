@@ -1,0 +1,85 @@
+No output folder available (COMSOL file access may be restricted). Results go to the table 'FE results' under Results > Tables.
+Symmetry via pointwise constraints v = 0, ary = 0 on selSym
+Symmetry via pointwise constraints v = 0, ary = 0 on selSeg
+REFINE_TEST: mesh x1.0, segment x1.0, domain 25.0a
+---- alpha=0.0200  delta/lc=1.000  FLAT CALIBRATION  (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 7985 triangles, 525 edge elements
+   energy route used: edge operator intTop
+   node-sum route used: operator sumSeg
+   G_energy/G_flat = 1.00478   Gm/G_flat = 1.00478   Gb/G_flat = -0.00000   (closure-energy)/energy = 4.78e-11
+---- alpha=0.0200  delta/lc=30.00    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 10203 triangles, 628 edge elements
+   G_energy/G_flat = 1.01960   Gm/G_flat = 1.01960   Gb/G_flat = 0.00000   (closure-energy)/energy = -2.47e-09
+---- alpha=0.0200  delta/lc=2.280    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 8022 triangles, 525 edge elements
+   G_energy/G_flat = 1.11309   Gm/G_flat = 1.11165   Gb/G_flat = 0.00144   (closure-energy)/energy = -5.15e-10
+---- alpha=0.0200  delta/lc=1.000    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 7987 triangles, 525 edge elements
+   G_energy/G_flat = 1.09022   Gm/G_flat = 1.08395   Gb/G_flat = 0.00627   (closure-energy)/energy = 2.76e-10
+---- alpha=0.0200  delta/lc=0.03000    (lc=0.03026 m, dx/lc=0.00600)
+   mesh: 8764 triangles, 574 edge elements
+   G_energy/G_flat = 0.92655   Gm/G_flat = 0.89698   Gb/G_flat = 0.02957   (closure-energy)/energy = -1.83e-09
+REFINE_TEST: mesh x0.5, segment x1.0, domain 25.0a
+---- alpha=0.0200  delta/lc=1.000  FLAT CALIBRATION  (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 21068 triangles, 912 edge elements
+   G_energy/G_flat = 1.00508   Gm/G_flat = 1.00508   Gb/G_flat = -0.00000   (closure-energy)/energy = -2.81e-09
+---- alpha=0.0200  delta/lc=30.00    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 26239 triangles, 1147 edge elements
+   G_energy/G_flat = 1.01939   Gm/G_flat = 1.01939   Gb/G_flat = 0.00000   (closure-energy)/energy = 6.37e-10
+---- alpha=0.0200  delta/lc=2.280    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 20991 triangles, 921 edge elements
+   G_energy/G_flat = 1.11241   Gm/G_flat = 1.11096   Gb/G_flat = 0.00145   (closure-energy)/energy = 5.02e-10
+---- alpha=0.0200  delta/lc=1.000    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 20869 triangles, 913 edge elements
+   G_energy/G_flat = 1.08932   Gm/G_flat = 1.08305   Gb/G_flat = 0.00627   (closure-energy)/energy = -4.54e-10
+---- alpha=0.0200  delta/lc=0.03000    (lc=0.03026 m, dx/lc=0.00600)
+   mesh: 21751 triangles, 973 edge elements
+   G_energy/G_flat = 0.92785   Gm/G_flat = 0.89820   Gb/G_flat = 0.02965   (closure-energy)/energy = 1.98e-08
+REFINE_TEST: mesh x0.25, segment x1.0, domain 25.0a
+---- alpha=0.0200  delta/lc=1.000  FLAT CALIBRATION  (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 73672 triangles, 1701 edge elements
+   G_energy/G_flat = 1.00471   Gm/G_flat = 1.00471   Gb/G_flat = -0.00000   (closure-energy)/energy = 9.00e-09
+---- alpha=0.0200  delta/lc=30.00    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 80785 triangles, 2191 edge elements
+   G_energy/G_flat = 1.01939   Gm/G_flat = 1.01939   Gb/G_flat = 0.00000   (closure-energy)/energy = -3.98e-09
+---- alpha=0.0200  delta/lc=2.280    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 65348 triangles, 1718 edge elements
+   G_energy/G_flat = 1.11120   Gm/G_flat = 1.10976   Gb/G_flat = 0.00145   (closure-energy)/energy = 7.60e-09
+---- alpha=0.0200  delta/lc=1.000    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 73108 triangles, 1701 edge elements
+   G_energy/G_flat = 1.08912   Gm/G_flat = 1.08285   Gb/G_flat = 0.00627   (closure-energy)/energy = 6.19e-10
+---- alpha=0.0200  delta/lc=0.03000    (lc=0.03026 m, dx/lc=0.00600)
+   mesh: 66438 triangles, 1797 edge elements
+   G_energy/G_flat = 0.92690   Gm/G_flat = 0.89726   Gb/G_flat = 0.02963   (closure-energy)/energy = 1.76e-08
+REFINE_TEST: mesh x1.0, segment x0.5, domain 25.0a
+---- alpha=0.0200  delta/lc=1.000  FLAT CALIBRATION  (lc=0.03026 m, dx/lc=0.0250)
+   mesh: 8221 triangles, 535 edge elements
+   G_energy/G_flat = 1.00356   Gm/G_flat = 1.00356   Gb/G_flat = -0.00000   (closure-energy)/energy = -2.21e-11
+---- alpha=0.0200  delta/lc=30.00    (lc=0.03026 m, dx/lc=0.0250)
+   mesh: 10462 triangles, 637 edge elements
+   G_energy/G_flat = 1.01815   Gm/G_flat = 1.01815   Gb/G_flat = 0.00000   (closure-energy)/energy = 5.68e-10
+---- alpha=0.0200  delta/lc=2.280    (lc=0.03026 m, dx/lc=0.0250)
+   mesh: 8151 triangles, 534 edge elements
+   G_energy/G_flat = 1.11304   Gm/G_flat = 1.11161   Gb/G_flat = 0.00143   (closure-energy)/energy = 2.61e-10
+---- alpha=0.0200  delta/lc=1.000    (lc=0.03026 m, dx/lc=0.0250)
+   mesh: 8217 triangles, 535 edge elements
+   G_energy/G_flat = 1.08839   Gm/G_flat = 1.08225   Gb/G_flat = 0.00614   (closure-energy)/energy = 2.81e-10
+---- alpha=0.0200  delta/lc=0.03000    (lc=0.03026 m, dx/lc=0.00300)
+   mesh: 8949 triangles, 586 edge elements
+   G_energy/G_flat = 0.92784   Gm/G_flat = 0.89840   Gb/G_flat = 0.02944   (closure-energy)/energy = 2.09e-08
+REFINE_TEST: mesh x1.0, segment x1.0, domain 50.0a
+---- alpha=0.0200  delta/lc=1.000  FLAT CALIBRATION  (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 16847 triangles, 775 edge elements
+   G_energy/G_flat = 1.00143   Gm/G_flat = 1.00143   Gb/G_flat = -0.00000   (closure-energy)/energy = -5.71e-10
+---- alpha=0.0200  delta/lc=30.00    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 19088 triangles, 879 edge elements
+   G_energy/G_flat = 1.01371   Gm/G_flat = 1.01371   Gb/G_flat = 0.00000   (closure-energy)/energy = 7.11e-09
+---- alpha=0.0200  delta/lc=2.280    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 16915 triangles, 776 edge elements
+   G_energy/G_flat = 1.10027   Gm/G_flat = 1.09884   Gb/G_flat = 0.00143   (closure-energy)/energy = 8.62e-09
+---- alpha=0.0200  delta/lc=1.000    (lc=0.03026 m, dx/lc=0.0500)
+   mesh: 16849 triangles, 775 edge elements
+   G_energy/G_flat = 1.07720   Gm/G_flat = 1.07100   Gb/G_flat = 0.00620   (closure-energy)/energy = -5.42e-09
+---- alpha=0.0200  delta/lc=0.03000    (lc=0.03026 m, dx/lc=0.00600)
+   mesh: 17674 triangles, 824 edge elements
+   G_energy/G_flat = 0.91525   Gm/G_flat = 0.88602   Gb/G_flat = 0.02923   (closure-energy)/energy = -3.11e-08
